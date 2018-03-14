@@ -1,2 +1,15 @@
 hosted
 proxy
+
+nexus life cycle :
+
+1. install and start the IQ server
+2. import the policies
+3. configure root organizations, organizations and applications
+4. evaluate the applications
+5. review the results
+6. from component info panel - investigate the voilations
+
+
+nexus firewall :
+
